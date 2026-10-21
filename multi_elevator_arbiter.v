@@ -144,7 +144,6 @@ module multi_elevator_arbiter (
                 end
             end
 
-
         end
         
     end
